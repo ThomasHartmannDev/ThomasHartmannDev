@@ -1,5 +1,5 @@
 # Welcome to my github 😄
-- 🌱 I’m currently learning JavaScrip and Node.js ...
+- 🌱 I’m currently learning C#, Java and object orientation...
 - 📫 How to reach me: Hartmann.thomas04@gmail.com
 - 😄 Pronouns: he/him
 
