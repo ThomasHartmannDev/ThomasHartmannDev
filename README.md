@@ -1,5 +1,5 @@
 # Welcome to my github 😄
-- 🌱 I’m currently learning C#, Java and object orientation...
+- 🌱 I’m currently learning Next.Js + Tailwind...
 - 📫 How to reach me: Hartmann.thomas04@gmail.com
 - 😄 Pronouns: he/him
 
