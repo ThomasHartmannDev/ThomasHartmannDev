@@ -1,5 +1,4 @@
 # Welcome to my github 😄
-- 🌱 I’m currently learning Next.Js + Tailwind...
 - 📫 How to reach me: Hartmann.thomas04@gmail.com
 - 😄 Pronouns: he/him
 - 🌐 Portfolio: https://hartmannsdev.com
