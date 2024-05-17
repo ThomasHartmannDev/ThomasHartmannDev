@@ -24,6 +24,8 @@
   <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thomas-CPP" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Thomas-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thomas-KT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Thomas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Thomas-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
